@@ -12,7 +12,7 @@ La ajustaremos mediante la propiedad flex-direction que podrá tomar los siguien
 - wrap: provoca un salto de línea si la anchura de los elementos (fijada por nosotros o por el contenedor) es superior a la del contenedor.
 - wrap-reverse: lo mismo que arriba pero de abajo a arriba.
 
-## Juntando la alineación y el ajuste(FLEX-FLOW)
+### Juntando la alineación y el ajuste(FLEX-FLOW)
 - flex-flow: flex-direction flex-wrap
 
 ### Alineación horizontal(JUSTIFY-CONTENT)
